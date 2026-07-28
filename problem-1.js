@@ -4,7 +4,6 @@ var isPalindrome = function (x) {
   const array = numberString.split("");
   const reverseNumber=array.reverse()
   const joinNumber = reverseNumber.join("");
-  const isTrue = number === Number(joinNumber);
-  
+  const isTrue = number === Number(joinNumber); 
 };
 
