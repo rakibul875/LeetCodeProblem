@@ -7,4 +7,4 @@ const lengthOfLastWord = (word) => {
   console.log(result);
   return result;
 };
-lengthOfLastWord("    Hello World  ");
+lengthOfLastWord("    hey   their   good morning  bro");
