@@ -8,4 +8,3 @@ const evenSum = (num) => {
   return total;
 };
 const result = evenSum([10, 5, 10]);
-console.log(result);
